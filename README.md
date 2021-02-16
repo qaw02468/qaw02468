@@ -7,7 +7,7 @@
 
 - 🌱 **2021 計畫: 努力學習，成為更好的自己**
 
-- 🔭 **目前正在製作[電商平台](https://github.com/qaw02468/ShoppingMall/)**
+- 🔭 **暫時完成[電商平台](https://github.com/qaw02468/ShoppingMall/)初版，正尋找下個目標**
 
 
 
